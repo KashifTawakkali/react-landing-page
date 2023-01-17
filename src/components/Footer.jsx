@@ -26,10 +26,10 @@ export const Footer = () => {
 
           <div class="box">
             <h3>follow us</h3>
-            <a href="#">facebook</a>
-            <a href="#">instagram</a>
-            <a href="#">pinterest</a>
-            <a href="#">twitter</a>
+            <a href="https://www.facebook.com/profile.php?id=100004399726316" target="_blank">facebook</a>
+            <a href="https://www.instagram.com/tawakkalipatil/" target="_blank">instagram</a>
+            <a href="https://in.pinterest.com/kashifpatil/" target="_blank">pinterest</a>
+            <a href="https://twitter.com/kashifpatil007" target="_blank">twitter</a>
           </div>
 
           <div class="box">
